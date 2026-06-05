@@ -1,0 +1,15 @@
+# Données lourdes
+images/
+*.png
+*.jpg
+*.jpeg
+*.gif
+data/
+outputs/
+mlruns/
+*.pkl
+*.joblib
+*.csv
+__pycache__/
+.env
+venv/
